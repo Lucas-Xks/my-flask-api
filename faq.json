@@ -1,0 +1,1604 @@
+{
+  "price_cut": {
+    "main_question": "What happens if the odds/price is cut?",
+    "keywords": [
+      "price cut",
+      "odds reduction",
+      "odds drop",
+      "lower price",
+      "odds change",
+      "bet value",
+      "bookmaker action",
+      "accept odds",
+      "tolerate cut",
+      "strategy",
+      "impact",
+      "bet suggestion",
+      "sharp odds"
+    ],
+    "variations": [
+      "What happens if odds are reduced after I see a suggestion?",
+      "The price for my potential bet was cut, what now?",
+      "How should I handle odds reductions when placing a bet?",
+      "The odds dropped on a selection, what's the impact on value?",
+      "Should I still take the bet if the price has been cut?",
+      "Price cut on a bet slip before placing, what does it mean?",
+      "Dealing with odds drops when placing a bet.",
+      "My bookie cut the odds, what's the effect on potential value?",
+      "Why do bookies cut prices so quickly?"
+    ],
+    "response": "Our bet suggestions aim for good value, and you often need to be quick as bookmakers can cut prices sharply. You might think it's better not to take a suggested bet if one or more prices have been cut, but surprisingly, that's not always the case – the bet may still represent good value despite the reduction. Here at Tilt the Odds, our experts provide guidance on when it might be acceptable to tolerate a price cut and when it's better to simply move on to the next bet generation. Consider the bet type and specific bookmaker concessions (see also 'What should I do if the odds have changed...?')."
+  },
+  "improve_skills": {
+    "main_question": "How can I improve my betting skills?",
+    "keywords": [
+      "improve betting",
+      "betting skills",
+      "better bettor",
+      "enhance skills",
+      "betting strategy",
+      "betting performance",
+      "betting tips",
+      "successful punter",
+      "betting advice",
+      "improve approach",
+      "betting analysis",
+      "learn betting",
+      "Discord community",
+      "study form",
+      "track results"
+    ],
+    "variations": [
+      "How can I get better at betting?",
+      "What strategies help improve betting performance?",
+      "Any tips for enhancing my betting skills?",
+      "Ways to become a more successful punter?",
+      "Need advice on improving my betting approach.",
+      "How do I analyze my bets to get better?",
+      "Where can I learn effective betting strategies?",
+      "How to study form and news for betting?",
+      "Best way to track bets and learn from mistakes?"
+    ],
+    "response": "To improve your betting skills, study the sports or events you're betting on, keep up with the latest news, meticulously analyse your past bets (both wins and losses), and learn from your mistakes. Joining our Discord community can also be very helpful, as experts and other members share insights and advice.\nSign up here for full access to betting tools and Discord."
+  },
+  "lay_off_bet": {
+    "main_question": "Should I lay off a bet?",
+    "keywords": [
+      "lay off bet",
+      "laying off",
+      "reduce liability",
+      "bet against outcome",
+      "hedging bet",
+      "betting exchange",
+      "minimize risk",
+      "lock profit",
+      "betting strategy",
+      "long term value",
+      "TTO advice",
+      "bad value"
+    ],
+    "variations": [
+      "When is it a good idea to lay off a bet?",
+      "Should I consider laying off my current wager on an exchange?",
+      "What does 'laying off' mean in betting?",
+      "How do I lay off a bet to minimize risk or lock profit?",
+      "Is laying off a bet recommended for value?",
+      "Considering laying off, what's Tilt the Odds' stance?",
+      "Is it profitable to lay off bets long term?"
+    ],
+    "response": "The answer is that, in the long run, laying off your bets at a betting exchange will generally be bad value. Here at Tilt the Odds, we have a huge amount of data which consistently shows this."
+  },
+  "bog_lucky15_boost": {
+    "main_question": "Does BOG apply to bets with Lucky 15 boosts?",
+    "keywords": [
+      "BOG",
+      "Best Odds Guaranteed",
+      "Lucky 15 boost",
+      "L15 bonus",
+      "BOG application",
+      "L15 eligibility",
+      "bookmaker rules",
+      "terms conditions",
+      "T&Cs",
+      "promotions interaction",
+      "boosted bets",
+      "Lucky 15s",
+      "consolation bonus",
+      "percentage boost",
+      "apply BOG"
+    ],
+    "variations": [
+      "Is Best Odds Guaranteed valid for Lucky 15 bets that have boosts?",
+      "Does the Lucky 15 boost (e.g., % bonus or consolation) affect BOG eligibility?",
+      "Will I get BOG if my Lucky 15 has a bonus applied (like double odds for one winner)?",
+      "How does BOG interact with Lucky 15 promotions?",
+      "Clarification needed: BOG on boosted Lucky 15s?",
+      "Do bookies apply BOG if an L15 bonus is triggered?",
+      "Can I get BOG and the L15 one winner bonus?",
+      "Check bookie T&Cs for BOG on Lucky 15 boosts."
+    ],
+    "response": "It varies significantly depending on the bookmaker. Some do offer Best Odds Guaranteed (BOG) alongside Lucky 15 boosts (like percentage bonuses or one-winner consolations), while others explicitly exclude boosted bets from BOG. At the moment, you'll need to check the specific Terms & Conditions (T&Cs) of each bookmaker for confirmation. We're currently working on gathering this information and will provide a comprehensive blog post soon.\nIn the meantime, if you're unsure, feel free to ask in the Discord community, as other members might know specific details for certain bookies."
+  },
+  "related_contingencies": {
+    "main_question": "What are related contingencies in betting?",
+    "keywords": [
+      "related contingencies",
+      "connected bets",
+      "interdependent outcomes",
+      "bet restrictions",
+      "contingent bet rules",
+      "multiple bets",
+      "accumulators",
+      "combining selections",
+      "invalid multiples",
+      "bet placement rules",
+      "TTO bets",
+      "example contingency"
+    ],
+    "variations": [
+      "Can you explain related contingencies in betting?",
+      "What constitutes a related contingency?",
+      "Why can't I combine certain selections in a multiple or accumulator?",
+      "Define related contingencies.",
+      "How do related contingencies affect accumulators?",
+      "Why did my accumulator bet get rejected for related selections?",
+      "Give an example of a related contingency.",
+      "Why won't the bookie let me parlay these bets?"
+    ],
+    "response": "A related contingency occurs when the outcome of one selection in a multiple bet directly affects the probability or outcome of another selection in the same bet.\nAn example is betting on it snowing on Christmas Day in Leeds, Bradford, Sheffield, and Doncaster all in one accumulator. You can't combine these because if it snows in Leeds, it becomes significantly more likely to snow in nearby Bradford. Bookmakers typically restrict these combinations because the combined odds wouldn't accurately reflect the true probability.\n(Infamously, bookmakers have occasionally accepted such bets by mistake and then refused to pay out).\nAt Tilt The Odds, you don't need to worry about related contingencies – none of our suggested bets will ever include them."
+  },
+  "variance_handling": {
+    "main_question": "What is variance in betting, and how should I handle it?",
+    "keywords": [
+      "variance",
+      "betting variance",
+      "betting swings",
+      "ups downs",
+      "bankroll management",
+      "handling variance",
+      "betting fluctuations",
+      "losing streaks",
+      "winning streaks",
+      "emotional control",
+      "betting psychology",
+      "long term results",
+      "stick strategy"
+    ],
+    "variations": [
+      "What does variance mean in the context of betting?",
+      "How should I deal with the natural swings (variance) in betting results?",
+      "Explaining betting variance and how to manage it.",
+      "How does variance impact my betting bankroll and psychology?",
+      "What are strategies for handling betting's ups and downs?",
+      "How to cope with losing streaks in betting?",
+      "Does variance mean my strategy is wrong?"
+    ],
+    "response": "Variance refers to the natural and expected ups and downs (swings) in betting results. Even with a profitable strategy, you'll experience winning and losing streaks. The key is to handle it by: sticking rigorously to your betting strategy, managing your bankroll effectively (using appropriate stakes), and not letting short-term losses affect your mood or future betting decisions. Emotional control is crucial.\nRead more about handling variance in our blog on Understanding Variance."
+  },
+  "palpable_errors": {
+    "main_question": "What are palpable errors ('palps') in betting?",
+    "keywords": [
+      "palpable error",
+      "palp",
+      "obvious error",
+      "incorrect odds",
+      "void bet",
+      "bookmaker mistake",
+      "odds error",
+      "cancelled bet",
+      "bet settlement error",
+      "wrong price",
+      "TTO monitoring",
+      "bookie error"
+    ],
+    "variations": [
+      "What is a palpable error or 'palp'?",
+      "Explain what happens when a bookie makes a palpable error.",
+      "Why was my bet voided due to a palpable error?",
+      "Define palpable errors in betting terms.",
+      "How do bookmakers handle obvious odds mistakes (palps)?",
+      "My bet was settled incorrectly due to an error, what happens?",
+      "What counts as an obvious bookie mistake?"
+    ],
+    "response": "A palpable error ('palp') is an obvious mistake made by the bookmaker when setting odds or terms for a bet. For example, offering 9/1 for Manchester City to beat Doncaster Rovers when the odds are clearly reversed, or mis-listing participants.\nUnlike most situations where a business mistake costs the business, bookmakers typically have terms allowing them to void (cancel) bets placed on palpable errors, often settling them at the 'correct' price if possible, or simply returning the stake.\nAt Tilt The Odds, we monitor for likely palpable errors and strive not to include them in our bet suggestions."
+  },
+  "playbook_missing_bonus": {
+    "main_question": "My new Playbook bookmaker account is missing the double odds bonus. What should I do?",
+    "keywords": [
+      "Playbook account",
+      "missing bonus",
+      "double odds bonus",
+      "one winner bonus",
+      "new account bonus",
+      "Playbook promotion",
+      "bonus not credited",
+      "signup offer issue",
+      "account adjustment",
+      "transaction history",
+      "check bonus",
+      "Playbook brands"
+    ],
+    "variations": [
+      "Playbook account seems to be missing the double odds bonus?",
+      "My Playbook bonus isn't showing on the bet slip, why?",
+      "Where is my Playbook new account 'double odds' bonus?",
+      "Troubleshooting missing Playbook signup offer.",
+      "Didn't receive expected Playbook bonus after winning.",
+      "How do Playbook bookies apply the one winner bonus?",
+      "How to check if Playbook bonus was applied?"
+    ],
+    "response": "Playbook platform bookmakers (like BetZone, Vickers, etc.) do provide double odds for one winner on relevant multiple bets, but they typically apply this as an account adjustment *after* settlement, rather than showing boosted odds upfront on the bet slip. To check if it was applied, go to your account section on the bookmaker's site, click 'Account,' and check your 'Transaction History' or 'Bet History' for any bonus adjustments or corrected winnings related to the bet."
+  },
+  "cash_out_decision": {
+    "main_question": "Should I cash out my bet?",
+    "keywords": [
+      "cash out",
+      "cashing out",
+      "secure profit",
+      "cut losses",
+      "cash out decision",
+      "partial cash out",
+      "betting feature",
+      "cash out value",
+      "bookmaker offer",
+      "in-play betting",
+      "TTO advice",
+      "bad value",
+      "temptation"
+    ],
+    "variations": [
+      "When should I consider cashing out a bet?",
+      "Is cashing out this bet a good idea from a value perspective?",
+      "What are the pros and cons of cashing out?",
+      "How do I decide whether to accept a cash out offer?",
+      "What is Tilt the Odds' advice on using the cash out feature?",
+      "Is the cash out amount fair value?",
+      "Should I ever cash out my bets?",
+      "Is cashout just a bookie trick?"
+    ],
+    "response": "From a pure long-term value perspective, the answer is that it is almost ALWAYS bad value to cash out a bet. Bookmakers calculate the cash out offer to include a margin for themselves; they wouldn't offer it if it wasn't profitable for them over time.\nThey are essentially tempting you to lock in a smaller profit or cut a loss at poor value. Our general advice is never to cash out a bet unless:\n1. The potential payout represents a truly life-changing amount of money for you, and securing a portion is paramount.\n2. You have serious concerns that the bookmaker might unduly restrict you or refuse payout if the full bet wins (e.g., due to account activity)."
+  },
+  "account_issues": {
+    "main_question": "What should I do if I encounter issues with my TTO account?",
+    "keywords": [
+      "account issues",
+      "account problems",
+      "login trouble",
+      "account access",
+      "TTO support",
+      "customer support",
+      "help desk",
+      "Discord help",
+      "technical difficulties",
+      "billing issues",
+      "contact support",
+      "email help"
+    ],
+    "variations": [
+      "What steps should I take if I have TTO account problems?",
+      "Experiencing Tilt the Odds account issues, who do I contact?",
+      "Help, I'm having trouble accessing or using my TTO account.",
+      "Where can I find support for TTO account problems?",
+      "Procedure for resolving TTO account issues (login, billing, etc.).",
+      "Can't log in to TTO, what do I do?"
+    ],
+    "response": "If you have any issues with your Tilt the Odds account (such as login problems, subscription queries, or technical difficulties), you can reach out to our customer support team by emailing help@tilttheodds.co.uk. Alternatively, you can join our Discord community, where our support staff, experts, and helpful members are often available to assist you."
+  },
+  "specific_subscription_needs": {
+    "main_question": "What if I have specific needs or questions about my TTO subscription?",
+    "keywords": [
+      "specific needs",
+      "subscription questions",
+      "custom subscription",
+      "special requirements",
+      "subscription help",
+      "billing inquiry",
+      "account management",
+      "feature question",
+      "contact support",
+      "TTO subscription",
+      "email help",
+      "unique query"
+    ],
+    "variations": [
+      "What if my subscription needs are unique or require clarification?",
+      "I have specific questions about my TTO subscription features or billing.",
+      "How are special subscription requests or inquiries handled?",
+      "Who do I contact for specific subscription inquiries?",
+      "Need assistance with a particular aspect of my TTO subscription.",
+      "Have a unique question about my plan, who to ask?"
+    ],
+    "response": "Our customer support team is available to assist you with any specific questions or concerns you may have regarding your Tilt the Odds subscription. Whether it's about understanding features, clarifying billing, account management, or discussing particular requirements, we're here to help ensure you have a smooth experience.\nPlease don't hesitate to reach out to us at help@tilttheodds.co.uk."
+  },
+  "switch_upgrade_subscription": {
+    "main_question": "Can I switch between monthly/annual or upgrade/downgrade my TTO subscription?",
+    "keywords": [
+      "switch subscription",
+      "upgrade plan",
+      "downgrade plan",
+      "change subscription",
+      "modify subscription",
+      "subscription tier change",
+      "monthly to annual",
+      "annual to monthly",
+      "TTO plans",
+      "subscription flexibility",
+      "change billing cycle"
+    ],
+    "variations": [
+      "Is changing my TTO subscription plan (e.g., monthly to annual) possible?",
+      "How can I upgrade or downgrade my subscription level?",
+      "Can I switch to a different TTO subscription option?",
+      "What is the process for upgrading or switching TTO plans?",
+      "Can I modify my current TTO subscription type?",
+      "How to change from monthly to annual subscription?"
+    ],
+    "response": "Currently, we don't offer an automated option to switch between monthly and annual plans directly through the user portal during an active subscription period. This is something we may consider as we expand. If you wish to change your plan type, the current process would involve cancelling your existing subscription (it will run until the end of its paid period) and then signing up for the new desired plan. Please contact help@tilttheodds.co.uk if you need assistance with this."
+  },
+  "subscription_trial": {
+    "main_question": "Is there a free trial period for the TTO subscription?",
+    "keywords": [
+      "trial period",
+      "free trial",
+      "try subscription",
+      "test service",
+      "TTO trial",
+      "promotional code",
+      "discount code",
+      "try before buy",
+      "new user offer",
+      "FREETRIAL30",
+      "30 day trial",
+      "cancel trial"
+    ],
+    "variations": [
+      "Do you offer a free trial for Tilt the Odds?",
+      "Can I try the TTO subscription before paying?",
+      "Is there a way to test the subscription features?",
+      "Information about a TTO subscription trial?",
+      "How long is the free trial period?",
+      "Is the FREETRIAL30 code still active?",
+      "How do I sign up for the 30 day free trial?",
+      "Can I cancel during the free trial?"
+    ],
+    "response": "Yes, we offer a 30-day free trial period so you can experience the full features of our platform. Use the promotional code \"FREETRIAL30\" during signup.\nIf you decide TTO is not for you, simply cancel your subscription anytime within the 30-day trial period via your account settings (Stripe portal), and you will not be charged.\nSign up here for 30 days free!"
+  },
+  "included_features": {
+    "main_question": "What features are included in all TTO subscription plans?",
+    "keywords": [
+      "features included",
+      "plan features",
+      "subscription benefits",
+      "standard features",
+      "core features",
+      "TTO tools",
+      "Bet Generator",
+      "Bet Builder",
+      "Bet Simulator",
+      "Profit Tracker",
+      "Discord access",
+      "all tiers",
+      "unlimited bets"
+    ],
+    "variations": [
+      "What features come with every TTO subscription plan?",
+      "Can you list the benefits included in all subscription tiers?",
+      "What are the standard features regardless of monthly or annual plan?",
+      "What core TTO tools are common to all subscriptions?",
+      "Overview of features included across all TTO plans.",
+      "Do both monthly and annual plans have the same features?"
+    ],
+    "response": "All our subscription plans (both Monthly and Annual) include the following core features:\n* Unlimited bet suggestions per day (subject to available value)\n* Access to our Bet Generator\n* Access to our Bet Builder\n* Access to our Bet Simulator\n* Access to the Profit Tracker\n* Access to our exclusive Discord community"
+  },
+  "subscription_plan_types": {
+    "main_question": "What types of subscription plans does TTO offer?",
+    "keywords": [
+      "subscription plans",
+      "plan types",
+      "subscription options",
+      "TTO tiers",
+      "membership levels",
+      "pricing",
+      "cost",
+      "monthly plan",
+      "annual plan",
+      "subscription cost",
+      "payment options"
+    ],
+    "variations": [
+      "What kinds of subscription plans does Tilt the Odds have?",
+      "Can you describe the different TTO subscription options?",
+      "What are the available subscription tiers and their prices?",
+      "Details about the types of TTO subscription plans?",
+      "Overview of TTO membership levels and costs.",
+      "How much does TTO cost per month/year?"
+    ],
+    "response": "We currently offer two primary subscription plans:\n* **Monthly Subscription:** £25 per month.\n* **Annual Subscription:** £249.99 per year (offering a saving compared to the monthly rate).\nBoth plans provide access to all features. Sign up now with our promotional code \"FREETRIAL30\" and get your first 30 days for free!"
+  },
+  "future_subscription_options": {
+    "main_question": "Will TTO introduce more subscription options or tiers in the future?",
+    "keywords": [
+      "future plans",
+      "new options",
+      "more subscriptions",
+      "upcoming plans",
+      "subscription development",
+      "new tiers",
+      "different features",
+      "platform growth",
+      "future offerings",
+      "plan expansion",
+      "roadmap"
+    ],
+    "variations": [
+      "Are there plans to add more subscription choices later?",
+      "Will TTO offer different subscription options or tiers in the future?",
+      "Is Tilt the Odds intending to expand its subscription plans?",
+      "Any information on future TTO subscription offerings?",
+      "Are new subscription levels or feature packages planned?",
+      "What's on the roadmap for TTO subscription plans?"
+    ],
+    "response": "Yes, as Tilt the Odds continues to grow and evolve, we plan to review and potentially introduce more subscription options or tiers. Our goal is to cater to the diverse needs of our users, and new plans might be part of that future development."
+  },
+  "default_odds_settings": {
+    "main_question": "How can I return to the default odds settings in my profile?",
+    "keywords": [
+      "default odds",
+      "reset odds settings",
+      "odds format reset",
+      "restore default odds",
+      "odds display default",
+      "profile settings",
+      "odds customization",
+      "reset parameters button",
+      "recommended odds",
+      "revert odds",
+      "standard settings"
+    ],
+    "variations": [
+      "How do I change my odds settings back to the default?",
+      "Is there a way to reset the odds display format to standard?",
+      "How can I restore the original/recommended odds settings?",
+      "I customized my odds, how do I return to the standard view?",
+      "Where is the option to revert odds format to default in my profile?",
+      "How to use the 'Reset Parameters' button?"
+    ],
+    "response": "If you wish to revert your odds customization settings (like minimum/maximum odds for bet types) back to our recommended default values, simply navigate to your profile settings page and click the \"Reset Parameters\" button. This will restore the odds parameters to the defaults based on our expert strategies."
+  },
+  "edit_displayed_winnings": {
+    "main_question": "Can I edit the 'Winnings' amount displayed in my TTO Bet Record?",
+    "keywords": [
+      "edit winnings",
+      "change winnings record",
+      "modify payout record",
+      "adjust winnings display",
+      "winnings correction",
+      "manual adjustment",
+      "Rule 4 adjustment",
+      "BOG adjustment",
+      "accurate records",
+      "bet record edit",
+      "override winnings",
+      "reflect payout"
+    ],
+    "variations": [
+      "Is it possible to manually edit the winnings shown in my bet record?",
+      "Can I change the displayed winnings amount to match my actual payout?",
+      "How do I modify the recorded winnings for accuracy (e.g., for Rule 4)?",
+      "Can I adjust the winnings figure shown in the TTO tracker?",
+      "How to correct displayed winnings if BOG was applied or Rule 4 deducted?",
+      "Can I override the odds in my bet record after the race?"
+    ],
+    "response": "Yes, you can manually adjust the odds recorded for a bet in your Bet Record *after* the event has finished (typically available the next day). By updating the odds to reflect the actual Starting Price (SP) if BOG was applied, or adjusting them downwards to effectively account for Rule 4 deductions, you can make the calculated 'Winnings' figure in your record more accurately reflect your actual returns. Please note that changes might take effect during the next data refresh cycle (e.g., hourly)."
+  },
+  "reset_bets_feed": {
+    "main_question": "Is there a way to reset or clear my bets feed/history in TTO?",
+    "keywords": [
+      "reset bets feed",
+      "clear bets history",
+      "reset bet record",
+      "start over feed",
+      "empty bets list",
+      "delete bet history",
+      "reset tracker",
+      "reject bets",
+      "account reset",
+      "clear analytics",
+      "fresh start",
+      "manual reset",
+      "full reset"
+    ],
+    "variations": [
+      "Can I clear my TTO bets feed?",
+      "Is there an option to start my bets feed from scratch?",
+      "How do I reset my displayed bets history and profit tracker?",
+      "Can I clear the list of recorded bets?",
+      "How to empty the bets feed or reset my account data?",
+      "Want a fresh start, can I delete all my recorded bets?",
+      "How to reject all bets to reset stats?",
+      "Request a full account data wipe?"
+    ],
+    "response": "Yes, there are two main ways to effectively reset your betting records in Tilt the Odds:\n1.  **Manual Rejection:** You can go through your Bet Record and manually mark bets as 'Rejected'. Rejected bets are excluded from your analytics, profit statements, and tracker totals, effectively resetting your performance metrics moving forward as if those bets hadn't been recorded.\n2.  **Full Account Reset:** If you prefer a complete wipe of your betting history and data, returning your account to a zero state, you can request this by contacting our support team at help@tilttheodds.co.uk. Please be aware this action is irreversible."
+  },
+  "automatic_bet_placement": {
+    "main_question": "Does the Tilt the Odds system automatically place bets for me?",
+    "keywords": [
+      "automatic betting",
+      "auto place bets",
+      "system places bets",
+      "automated betting",
+      "hands-free betting",
+      "TTO automation",
+      "bet placement service",
+      "manual betting",
+      "bet execution",
+      "API betting",
+      "suggestion only"
+    ],
+    "variations": [
+      "Does TTO place the suggested bets automatically on bookmaker sites?",
+      "Is the betting process automated, or do I place bets manually?",
+      "Will the TTO platform place bets without my manual action?",
+      "Does the TTO service include automatic bet placement?",
+      "Clarification needed: does TTO execute bets for users?",
+      "Is TTO just advice or does it bet for me?"
+    ],
+    "response": "No, Tilt the Odds does **not** automatically place bets for you. Our system provides bet suggestions, analysis, and tools to help you find value. However, you are entirely responsible for manually placing any bets you choose to make with your chosen bookmakers using your own bookmaker accounts."
+  },
+  "profile_limits": {
+    "main_question": "How many bookmakers and bet types can/should I add to each TTO profile?",
+    "keywords": [
+      "profile limits",
+      "bookmaker limit",
+      "bet type limit",
+      "profile setup",
+      "add bookies types",
+      "profile configuration",
+      "maximum slots",
+      "recommended setup",
+      "search efficiency",
+      "manageable profile",
+      "5 slot limit"
+    ],
+    "variations": [
+      "Is there a maximum number of bookmakers or bet types per TTO profile?",
+      "How many bookies and bet types should I ideally set up per profile for efficiency?",
+      "Are there limits on adding bookmakers and bet types to a profile?",
+      "Information on TTO profile configuration limits.",
+      "What's the recommended maximum number of active bookmaker/bet type slots?",
+      "Why the recommendation of 5 slots per profile?",
+      "What counts as a 'slot' in profile setup?"
+    ],
+    "response": "While there might not be a strict technical limit, we strongly recommend adding **up to 5 combined 'slots'** (where each bookmaker + bet type pairing counts as a slot) per active profile for optimal performance. For example, 5 bookmakers each with 1 bet type, or 1 bookmaker with 5 bet types. This ensures our system can efficiently check all your selected combinations during each search cycle. Having significantly more may lead to some combinations being skipped randomly during searches (see 'Why do I get fewer bets from some bookies?'). Once selected, click the \"Save\" button."
+  },
+  "daily_tracker_update_frequency": {
+    "main_question": "How often does the daily profit tracker update?",
+    "keywords": [
+      "daily tracker update",
+      "tracker frequency",
+      "update schedule",
+      "tracker refresh rate",
+      "bottom tracker",
+      "daily profit update",
+      "live tracker",
+      "real-time update",
+      "tracker timing",
+      "10 minute update",
+      "page load refresh"
+    ],
+    "variations": [
+      "How frequently is the daily profit tracker (at the bottom) updated?",
+      "What's the update schedule for the daily tracker?",
+      "When does the daily tracker refresh its profit figure?",
+      "Information on the daily tracker update timing.",
+      "How often can I expect the daily tracker to update?",
+      "Is the bottom tracker updated in real-time or every 10 minutes?"
+    ],
+    "response": "The daily profit tracker, which is located at the bottom of the main betting page, updates its calculations approximately every 10 minutes. It also refreshes automatically each time you load or refresh the page, showing the latest calculated daily profit/loss based on settled bets recorded within that timeframe."
+  },
+  "next_day_bets_availability": {
+    "main_question": "When do TTO bet suggestions become available for the next day's races?",
+    "keywords": [
+      "next day bets",
+      "tomorrow races",
+      "bets availability",
+      "when bets appear",
+      "future races",
+      "advance bets",
+      "bet generation time",
+      "overnight races",
+      "early bets",
+      "daily bets timing",
+      "7am generation",
+      "current day only"
+    ],
+    "variations": [
+      "What time are the next day's horse racing bets typically available on TTO?",
+      "When can I usually see TTO suggestions for tomorrow's races?",
+      "Information on the availability of bets for upcoming/future race days?",
+      "When are TTO's next-day selections usually posted?",
+      "What is the timing for the release of TTO bets each day?",
+      "Does TTO show bets the night before?",
+      "Are bets available before 7am?"
+    ],
+    "response": "Tilt the Odds primarily focuses on generating bets for the **current day's** racing. Bet generation typically starts around 7:00 a.m. UK time each morning for that day's events. We generally do not provide bet suggestions for the next day's races in advance the night before."
+  },
+  "same_bets_other_users": {
+    "main_question": "Will I be placing the exact same bets as many other Tilt the Odds users?",
+    "keywords": [
+      "same bets",
+      "identical selections",
+      "other users",
+      "shared bets",
+      "unique bets",
+      "crowded bets",
+      "bet suggestion uniqueness",
+      "multiple bets distribution",
+      "singles bets",
+      "market impact",
+      "limit combinations"
+    ],
+    "variations": [
+      "Are many TTO users placing the exact same suggested bets?",
+      "Will my bet suggestions be identical to what lots of other users receive?",
+      "How unique are the bet suggestions provided by TTO?",
+      "Is there a concern about too many users placing the same 'crowded' bets?",
+      "Do different users get shared or unique bet combinations, especially for multiples?",
+      "How does TTO prevent everyone getting the same Lucky 15?"
+    ],
+    "response": "It depends on the bet type:\n* **Singles:** It's possible that multiple users might receive and place the same single bet suggestion if it represents significant value according to our algorithms.\n* **Multiples (e.g., Lucky 15, Yankee):** For multiple bets, we implement logic to limit the number of times the exact same combination of horses is generated and suggested across all users for the same bookmaker and bet type. This helps prevent situations where a large number of users are placing the identical multiple, potentially impacting odds or drawing undue attention."
+  },
+  "odds_changed_at_bookie": {
+    "main_question": "What should I do if the odds have changed at the bookmaker from those displayed on TTO?",
+    "keywords": [
+      "odds changed",
+      "different odds",
+      "price mismatch",
+      "bookie odds update",
+      "system vs bookie odds",
+      "odds movement",
+      "placing bet",
+      "odds discrepancy",
+      "accept lower odds",
+      "value bet",
+      "singles vs multiples",
+      "odds drop",
+      "odds increase"
+    ],
+    "variations": [
+      "The odds are different at the bookmaker compared to the TTO display. What now?",
+      "What if the odds moved down before I could place the bet?",
+      "How should I handle odds discrepancies between TTO and the bookie?",
+      "The odds changed from the TTO suggestion, should I still place the bet?",
+      "What's the procedure when bookmaker odds don't match the TTO feed?",
+      "Odds dropped/increased at bookie, still take the bet?",
+      "Should I accept lower odds than TTO showed?"
+    ],
+    "response": "Odds can change rapidly. Our system identifies what we believe is good value *at the time of the suggestion*. If the odds have changed by the time you get to the bookmaker:\n* **General Principle:** It's impossible to know if odds will move further up or down. The suggestion was based on the odds shown.\n* **Singles:** For single bets, it's generally advisable **not** to accept lower odds than suggested, as the original value proposition may be lost.\n* **Multiples (e.g., Lucky 15):** You might still consider placing the bet even if one horse's odds have dropped slightly, especially if the overall potential value remains attractive or if you're using a bookmaker with concessions (like 'one winner bonus' or BOG) that might mitigate the impact. Assess the size of the drop – a small change (e.g., 9/1 to 17/2) might be tolerable, a large drop likely isn't."
+  },
+  "forgot_to_place_bet": {
+    "main_question": "What happens in the TTO system if I forget to place a suggested bet?",
+    "keywords": [
+      "forgot bet",
+      "missed bet",
+      "didn't place bet",
+      "forgetting bets",
+      "missed opportunity",
+      "bet tracker impact",
+      "manual placement",
+      "system tracking",
+      "unplaced bet",
+      "record keeping",
+      "mark rejected"
+    ],
+    "variations": [
+      "What happens in TTO if I see a suggestion but forget to place the bet?",
+      "I missed placing a bet TTO suggested, what should I do in the tracker?",
+      "How are forgotten/unplaced bets handled in the TTO system/records?",
+      "Are there consequences in TTO for forgetting to place a bet?",
+      "If I forgot to place a bet, how does it impact my tracking/stats?",
+      "How do I mark a bet as not placed in TTO?"
+    ],
+    "response": "Tilt the Odds only provides suggestions; it doesn't place bets for you. If you forget to manually place a suggested bet with your bookmaker, then simply nothing happens – the bet is not placed.\nIn your TTO Bet Record, the suggestion will still appear. You should ideally mark this bet as 'Rejected' in your TTO record. This ensures it's not counted towards your profit/loss calculations and keeps your performance tracking accurate, reflecting only the bets you actually placed."
+  },
+  "override_odds": {
+    "main_question": "Can I override the odds settings for specific bet types in my profile?",
+    "keywords": [
+      "override odds",
+      "manual odds settings",
+      "custom odds range",
+      "specific bet types odds",
+      "change suggested odds",
+      "custom odds input",
+      "profile customization",
+      "odds parameters",
+      "adjust odds filter",
+      "bet type odds",
+      "min max odds"
+    ],
+    "variations": [
+      "Can I manually set my own minimum/maximum odds for certain bet types?",
+      "Is it possible to override the default odds ranges suggested by TTO?",
+      "How do I input my own preferred odds criteria for different bet types?",
+      "Is overriding the system's default odds parameters possible?",
+      "Can I manually change the odds filters for specific bet types in my profile?",
+      "How to set custom min/max odds for Yankee bets?"
+    ],
+    "response": "Yes, you now have the flexibility to override the default minimum and maximum odds values for each bet type within your profile settings. While we provide default ranges based on our tested strategies, you can adjust these parameters to better suit your personal betting preferences or strategy nuances. Remember to save your changes."
+  },
+  "fewer_bets_some_bookies": {
+    "main_question": "Why do I seem to get fewer bet suggestions from some bookmakers compared to others?",
+    "keywords": [
+      "fewer bets",
+      "less bets",
+      "bookie frequency",
+      "variation in bets",
+      "bookmaker selection rate",
+      "bet distribution",
+      "search randomisation",
+      "profile setup impact",
+      "bookie value",
+      "odds availability",
+      "5 slot limit",
+      "search cycle"
+    ],
+    "variations": [
+      "Why do I get fewer TTO bet recommendations from certain bookies?",
+      "Is it normal for some bookmakers in my profile to yield fewer bets?",
+      "What are the reasons for varying bet suggestion frequency among bookies?",
+      "Why might some bookmakers be selected less often for TTO suggestions?",
+      "Explanation for getting fewer bets from specific bookmakers in my list.",
+      "Does having more than 5 slots mean some bookies are missed?"
+    ],
+    "response": "There are a few potential reasons for this:\n1.  **Search Randomisation:** Our system checks up to 5 'slots' (bookie/bet type combinations) per search cycle. If your profile has more than 5 active slots, some combinations might be randomly skipped in one search but included in the next. Bookies involved in fewer slots might appear less frequently.\n2.  **Value Availability:** Some bookmakers might simply offer fewer bets that meet our value criteria (QS/VP thresholds, odds ranges) on any given day compared to others.\n3.  **Market Conditions:** Odds availability and market liquidity can vary between bookmakers, affecting whether value bets are identified."
+  },
+  "add_tto_home_screen": {
+    "main_question": "How can I add TTO to my phone's home screen (iPhone/Android) like an app?",
+    "keywords": [
+      "add to home screen",
+      "TTO app",
+      "native app feel",
+      "iPhone home screen",
+      "Android home screen",
+      "web app install",
+      "PWA",
+      "Progressive Web App",
+      "shortcut",
+      "mobile access",
+      "save website",
+      "Safari share",
+      "Chrome menu"
+    ],
+    "variations": [
+      "How do I add the Tilt the Odds website to my phone's home screen?",
+      "Instructions for adding a TTO shortcut on iOS/Android.",
+      "Can I make TTO function like a native app on my mobile?",
+      "Guide to saving TTO to my phone's home screen.",
+      "How to make TTO easily accessible like an app from my home screen.",
+      "Steps to install TTO web app on iPhone/Android."
+    ],
+    "response": "You can add Tilt the Odds to your home screen for quick, app-like access. Here's how:\n\n**For iPhone (using Safari):**\n1.  Open Safari and navigate to the TiltTheOdds website (e.g., the login page or dashboard).\n2.  Tap the 'Share' button (the square icon with an arrow pointing upwards, usually at the bottom).\n3.  Scroll down the share options and tap 'Add to Home Screen'.\n4.  You can customize the name (e.g., 'TTO'), then tap 'Add'.\nThe TTO icon will now appear on your home screen.\n\n**For Android (using Chrome):**\n1.  Open Chrome and navigate to the TiltTheOdds website.\n2.  Tap the three-dot menu icon (usually in the top-right corner).\n3.  Select 'Install app' or 'Add to Home screen' (the wording may vary slightly).\n4.  Confirm the action, and the TTO icon will be added to your home screen or app drawer.\n\nUsing this icon will launch TTO in a more dedicated window, providing an experience closer to a native app."
+  },
+  "tracker_difference": {
+    "main_question": "What is the difference between the profit tracker at the top and the one at the bottom of the page?",
+    "keywords": [
+      "tracker difference",
+      "top tracker",
+      "bottom tracker",
+      "two trackers",
+      "tracker comparison",
+      "total profit tracker",
+      "daily profit tracker",
+      "tracker scope",
+      "tracker update frequency",
+      "performance metrics",
+      "all time vs daily"
+    ],
+    "variations": [
+      "What's the distinction between the top tracker and the bottom tracker?",
+      "Can you explain the purpose of the two different profit trackers?",
+      "What's the difference between the tracker at the top and bottom of the main page?",
+      "Why are there two profit trackers displayed?",
+      "Comparing the top (all-time) and bottom (daily) trackers.",
+      "Does the top tracker show total profit?"
+    ],
+    "response": "The two trackers serve different purposes:\n* **Top Tracker:** This tracker displays your **all-time** profit and loss statistics since you started recording bets with Tilt the Odds. It provides a long-term overview of your performance. It updates less frequently (potentially hourly or upon login) to avoid performance issues with large datasets.\n* **Bottom Tracker:** This tracker shows your **daily** profit and loss for the current day only. It updates more frequently (around every 10 minutes and on page load) to give you a near real-time view of your performance for today's betting activities."
+  },
+  "enable_disable_repeat_selections": {
+    "main_question": "Can I enable or disable getting repeat selections (same horse in multiple bets)?",
+    "keywords": [
+      "repeat selections",
+      "enable repeats",
+      "disable repeats",
+      "duplicate selections",
+      "selection settings",
+      "profile option",
+      "no repeat selections",
+      "same horse multiple bets",
+      "bet suggestion filter",
+      "control repeats",
+      "toggle option"
+    ],
+    "variations": [
+      "How can I turn repeat selections on or off in my TTO profile?",
+      "Is there an option to allow or disallow betting on the same horse multiple times?",
+      "How do I manage the settings for repeat selections?",
+      "Can I enable or disable seeing duplicate selections in my suggested bets?",
+      "How to control whether TTO recommends the same horse in different bets?",
+      "Where is the 'No Repeat Selections' toggle?"
+    ],
+    "response": "Yes, you have control over this. In your active profile settings, you will find an option labelled \"No Repeat Selections\" (or similar).\n* **Enabled/Checked:** If you enable this option, the system will filter out suggestions that include a horse already present in another suggested bet for that search cycle. You won't see the same horse appearing in multiple different bet suggestions simultaneously.\n* **Disabled/Unchecked:** If you disable this option, you may receive multiple bet suggestions that feature the same horse, potentially across different bet types or multiples."
+  },
+  "winnings_discrepancy": {
+    "main_question": "Why are the 'Winnings' in my TTO Bet Record different from my actual bookmaker payout?",
+    "keywords": [
+      "winnings discrepancy",
+      "actual payout difference",
+      "bet record winnings",
+      "payout mismatch",
+      "incorrect winnings calculation",
+      "Rule 4 impact",
+      "BOG impact",
+      "Best Odds Guaranteed",
+      "estimated winnings",
+      "final settlement",
+      "odds adjustment",
+      "SP difference",
+      "manual edit"
+    ],
+    "variations": [
+      "Why do the 'Winnings' shown in my TTO record differ from my actual bookie payout?",
+      "My payout from the bookmaker is different from the TTO record winnings. Why?",
+      "Explaining discrepancies: TTO recorded winnings vs actual payout.",
+      "What are the reasons for the winnings figure mismatching?",
+      "Why might my TTO bet record winnings not match the bookie settlement (e.g., Rule 4, BOG)?",
+      "TTO winnings estimate vs actual return difference?"
+    ],
+    "response": "The 'Winnings' displayed in your TTO Bet Record are initially calculated based on the odds recorded *at the time the bet suggestion was generated or logged*. This figure is an estimate and might differ from your final bookmaker payout due to factors it cannot automatically account for:\n* **Rule 4 Deductions:** If a horse is withdrawn (non-runner) after you place your bet, bookmakers apply Rule 4 deductions to winnings on remaining horses. TTO's initial estimate doesn't include this. (See our Rule 4 blog).\n* **Best Odds Guaranteed (BOG):** If the Starting Price (SP) is higher than the odds you took, and your bookmaker offers BOG, your payout will be higher. TTO's estimate uses the recorded odds, not potentially higher SP odds.\n* **Manual Adjustment:** You can manually edit the odds in your TTO record (usually the next day) to reflect the SP (for BOG) or adjust for Rule 4, making the 'Winnings' figure more accurate."
+  },
+  "how_many_bookies_active": {
+    "main_question": "How many bookmakers should I ideally have active in my TTO profile?",
+    "keywords": [
+      "how many bookies",
+      "number bookmakers",
+      "active bookies",
+      "optimal bookies",
+      "bookmaker count",
+      "recommended number",
+      "profile setup",
+      "search efficiency",
+      "manageable setup",
+      "best results",
+      "5 slot limit"
+    ],
+    "variations": [
+      "What is the recommended number of active bookmakers for a TTO profile?",
+      "How many bookies should I ideally have enabled for best performance?",
+      "What's the optimal count for active bookmakers in TTO?",
+      "Guidance on the number of active bookies to use.",
+      "How many bookmakers should I select for the best results/efficiency?",
+      "Is it bad to have more than 5 bookies active?"
+    ],
+    "response": "For optimal performance and to ensure all your selections are checked consistently, we recommend keeping around **5 active bookmaker 'slots'** in your profile. A 'slot' can be considered a bookmaker/bet type combination. Having significantly more active bookies (or bookie/bet type combos) can mean that not all combinations are searched in every cycle due to system limits designed to maintain speed and efficiency (see 'Why do I get fewer bets from some bookies?'). Sticking to around 5 ensures a focused and manageable search."
+  },
+  "place_bet_myself": {
+    "main_question": "Do I need to place the bets myself, or does TTO do it?",
+    "keywords": [
+      "place bet myself",
+      "manual betting",
+      "user places bets",
+      "self-betting",
+      "confirm bet placement",
+      "bet execution",
+      "TTO function",
+      "responsibility",
+      "bookmaker account",
+      "placing wagers",
+      "user action required"
+    ],
+    "variations": [
+      "Do I have to manually go to the bookmaker site and place the bets?",
+      "Can you confirm if the user needs to place the bets themselves?",
+      "Is manual bet placement required after getting a TTO suggestion?",
+      "Does the user need to place the actual wagers using their own accounts?",
+      "Clarification needed: who is responsible for placing the bets shown on TTO?",
+      "TTO is advice only, right? I place the bets?"
+    ],
+    "response": "Yes, you absolutely **must place the bets yourself** manually. Tilt the Odds provides suggestions and tools, but it does **not** interact with your bookmaker accounts or place any bets on your behalf. You are responsible for logging into your chosen bookmaker(s) and placing any wager you decide to make based on our suggestions."
+  },
+  "optimise_setup": {
+    "main_question": "How can I optimise my TTO profile setup for best results?",
+    "keywords": [
+      "optimise setup",
+      "optimize TTO",
+      "best configuration",
+      "improve performance",
+      "setup optimisation",
+      "profile settings",
+      "bookmaker selection",
+      "bet type selection",
+      "efficient setup",
+      "maximize value",
+      "TTO strategy",
+      "5 slot limit",
+      "monitor performance"
+    ],
+    "variations": [
+      "How can I best configure my TTO setup for optimal results?",
+      "Any tips for optimising my TTO profile settings?",
+      "What's the best way to set up my TTO profile (bookies, bet types)?",
+      "Strategies for optimising my TTO configuration.",
+      "How do I get the most out of my TTO setup?",
+      "Best practices for choosing bookies and bet types in TTO?"
+    ],
+    "response": "To optimise your Tilt the Odds setup:\n1.  **Limit Active Slots:** Keep your active profile focused. Aim for around **5 active bookmaker/bet type 'slots'**. This ensures TTO checks all your preferences efficiently each time.\n2.  **Select High-Value Bookies:** Choose bookmakers where you consistently find good value bets or those known for offering competitive odds or beneficial promotions (like BOG, boosts) relevant to your strategy.\n3.  **Choose Appropriate Bet Types:** Select bet types that align with your risk tolerance and bankroll strategy (e.g., singles, multiples like Lucky 15s).\n4.  **Monitor and Adjust:** Regularly review the performance coming from different bookmakers and bet types in your tracker. If a particular bookie or bet type consistently underperforms or rarely yields suggestions, consider replacing it in your profile."
+  },
+  "create_multiple_profiles": {
+    "main_question": "Can I create and use multiple betting profiles in TTO?",
+    "keywords": [
+      "multiple profiles",
+      "create profiles",
+      "different setups",
+      "separate profiles",
+      "profile creation",
+      "profile management",
+      "switch profiles",
+      "strategy profiles",
+      "testing setups",
+      "custom profiles",
+      "save profile"
+    ],
+    "variations": [
+      "Is it possible to create more than one betting profile in Tilt the Odds?",
+      "How do I set up multiple betting profiles for different strategies?",
+      "Can I have separate TTO profiles for different bookmaker/bet type combinations?",
+      "How do I create and manage multiple profiles in TTO?",
+      "Can I switch between different saved profile setups in TTO?",
+      "How to save different betting strategies as profiles?"
+    ],
+    "response": "Yes, Tilt the Odds allows you to create and manage multiple betting profiles. This feature is useful for organizing different strategies, testing various combinations of bookmakers and bet types, or separating different types of betting activity. To create a new profile, simply go to the profile management section, give your new profile a distinct name, select the desired bookmakers and bet types, configure any specific settings (like odds ranges or repeat selections), and save it. You can then easily switch between your saved profiles."
+  },
+  "covered_bookmakers": {
+    "main_question": "Which bookmakers does Tilt the Odds cover/support?",
+    "keywords": [
+      "covered bookmakers",
+      "supported bookies",
+      "bookmaker list",
+      "which bookies",
+      "integrated bookmakers",
+      "TTO support list",
+      "UK bookmakers",
+      "betting sites covered",
+      "list of bookies"
+    ],
+    "variations": [
+      "Which bookmakers does TTO support?",
+      "Can you provide a list of bookies covered by Tilt the Odds?",
+      "What bookmakers are integrated with TTO?",
+      "Is there a list of supported bookmakers?",
+      "Which UK betting sites do you cover?",
+      "Does TTO work with [Bookmaker Name]?"
+    ],
+    "response": "We currently cover a wide range of UK bookmakers to provide you with the best betting options. Below is the full list of bookmakers we support:\n10bet, 32red, 888sport, Bet365, Bet600, Betfairsportsbook, Betfred, Betgoodwin, Betiton, BetMGM, BetUK, Betvictor, Betway, Betzone, Boylesports, Bresbet, Bwin, Coral, Dragonbet, Fafabet, Fitzdares, Gentlemanjim, Geoffbanks, Grosvenor, Ladbrokes, Leovegas, Livescorebet, Netbet, Nrgbet, Octobet, Paddypower, Parimatch, Partypoker, Planetsportbet, Rhinobet, Skybet, Sportingbet, Sportingindex, Spreadex, Starsports, Talksportbet, Unibet, Virginbet, Williamhill.\n(Note: Betzone and Bwin appeared twice in the original list, corrected here)."
+  },
+  "bookie_bet_type_combination_effect": {
+    "main_question": "How does the combination of Bookie and Bet Type affect my searches?",
+    "keywords": [
+      "bookie bet type combination",
+      "search effect",
+      "profile impact",
+      "combination influence",
+      "search results filter",
+      "search slots",
+      "randomisation",
+      "profile settings",
+      "search limit",
+      "how search works",
+      "5 slot check"
+    ],
+    "variations": [
+      "How does the Bookie/Bet Type combo influence TTO searches?",
+      "What is the effect of Bookie/Bet Type pairings on search results?",
+      "How does choosing bookies and bet types affect what suggestions I see?",
+      "What is the impact of the Bookie/Bet Type combination on searches?",
+      "How does the influence of profile settings affect bet finding?",
+      "Why are only 5 combinations checked per search?"
+    ],
+    "response": "Our system checks up to 5 combinations ('slots') of bookies and bet types randomly selected from your active profile during each search cycle. For example:\n* If you have only 1 bookie active with 5 different bet types selected, we'll search all 5 combinations every time.\n* If you have 3 bookies active, each with 2 bet types selected (total 6 combinations), the system will randomly pick 5 of those 6 combinations to check in each search cycle. One combination will be missed in that specific cycle but may be included in the next.\nThis randomisation ensures efficiency but means having more than 5 active slots can lead to some preferences not being checked every single time."
+  },
+  "more_than_5_bookies": {
+    "main_question": "What happens if I have more than 5 bookies (or combinations) active?",
+    "keywords": [
+      "more than 5 bookies",
+      "exceeding limit",
+      "many bookies active",
+      "impact too many bookies",
+      "multiple bookmakers",
+      "search limitations",
+      "random checks",
+      "profile efficiency",
+      "missed searches",
+      "5 slot limit impact"
+    ],
+    "variations": [
+      "What are the implications of having more than 5 active bookie/bet type slots?",
+      "Is it okay to have more than 5 active bookies or combinations?",
+      "What happens if I exceed the recommended 5 slots?",
+      "What are the effects of using a large number of bookies/combinations?",
+      "Having more than 5 active slots - pros and cons?",
+      "Will TTO check all my bookies if I have 10 active?"
+    ],
+    "response": "If you have more than 5 active bookmaker/bet type combinations ('slots') in your profile, our system cannot guarantee checking all of them in every single search cycle due to performance optimizations. Instead, it will randomly select 5 combinations from your active list to check each time. This means some of your preferred bookies or bet types might be temporarily skipped during a search. To ensure comprehensive checking of your preferences every time, we recommend sticking to 5 or fewer active slots."
+  },
+  "top_tracker_not_updating": {
+    "main_question": "Why doesn't the all-time tracker (top of page) update instantly?",
+    "keywords": [
+      "top tracker update issue",
+      "tracker not refreshing",
+      "page load update",
+      "tracker static",
+      "top tracker problem",
+      "all time tracker update",
+      "hourly update",
+      "performance optimization",
+      "large dataset",
+      "tracker lag"
+    ],
+    "variations": [
+      "Why doesn't the top tracker refresh every time I load the page?",
+      "Is it normal for the top (all-time) tracker not to update immediately?",
+      "Explaining the top tracker's update behavior.",
+      "Issue with the top tracker not updating frequently.",
+      "Why is the top tracker static on page load sometimes?",
+      "How often does the all-time profit tracker update?"
+    ],
+    "response": "The tracker at the top of the page, which shows your all-time statistics, is updated less frequently than the daily tracker. It typically updates only if its data is over an hour old when you load the page, or upon login. This is a deliberate performance optimization. Calculating all-time stats can be resource-intensive, especially for users with thousands of recorded bets, so refreshing it constantly would significantly slow down page loading times."
+  },
+  "increase_searches_per_request": {
+    "main_question": "Can the number of searches (combinations checked) per request be increased beyond 5?",
+    "keywords": [
+      "increase searches",
+      "more searches",
+      "search limit",
+      "request limit",
+      "higher search volume",
+      "increase capacity",
+      "search performance",
+      "system limits",
+      "future increase",
+      "check more combinations"
+    ],
+    "variations": [
+      "Is it possible to increase the number of searches per request above 5?",
+      "Can the search limit per request (5 combinations) be raised?",
+      "Requesting an increase in TTO's search capacity.",
+      "Can I configure TTO to perform more searches at once?",
+      "What's the possibility of increasing the search limits in the future?",
+      "Why is the search capped at 5 combinations?"
+    ],
+    "response": "Currently, we cap the number of bookmaker/bet type combinations checked per search request at 5. This limit is in place to maintain system performance and ensure a smooth, responsive experience for all users. We may evaluate the possibility of increasing this limit in the future based on system capabilities and user feedback, but for now, the limit is 5."
+  },
+  "rule_4_system_handling": {
+    "main_question": "Does TTO account for Rule 4 deductions or BOG when calculating winnings?",
+    "keywords": [
+      "Rule 4 system handling",
+      "Rule 4 deductions account",
+      "system account Rule 4",
+      "R4 calculation TTO",
+      "winnings reduction R4",
+      "BOG calculation TTO",
+      "Best Odds Guaranteed system",
+      "estimated winnings",
+      "manual adjustment needed",
+      "automatic calculation limitations"
+    ],
+    "variations": [
+      "Does the TTO system automatically factor in Rule 4 deductions?",
+      "My winnings were reduced by Rule 4, does TTO account for this?",
+      "How does the TTO system handle potential Rule 4 deductions or BOG payouts?",
+      "Are Rule 4 or BOG considered in TTO's winnings calculations?",
+      "Why doesn't TTO automatically adjust for Rule 4 or BOG?",
+      "Do I need to manually adjust winnings for Rule 4/BOG in TTO?"
+    ],
+    "response": "No, Tilt the Odds cannot automatically calculate or adjust for Rule 4 deductions or Best Odds Guaranteed (BOG) payouts in the displayed 'Winnings' figure.\n* **Rule 4:** We don't receive real-time non-runner and deduction information required to calculate this accurately.\n* **BOG:** We have no way of knowing if your specific bookmaker account qualifies for BOG on a particular bet or what the final SP was.\nTherefore, the initial winnings shown are estimates. You can (and should) manually adjust the odds in your Bet Record the following day to accurately reflect the actual payout you received after accounting for these factors."
+  },
+  "each_way_support": {
+    "main_question": "Does Tilt the Odds support Each Way (E/W) bets?",
+    "keywords": [
+      "Each Way bets",
+      "E/W support",
+      "EW betting",
+      "support E/W",
+      "place each way",
+      "TTO Each Way",
+      "win market focus",
+      "future feature",
+      "E/W tracking",
+      "E/W suggestions"
+    ],
+    "variations": [
+      "Does TTO support or provide suggestions for E/W betting?",
+      "Can I use the TTO system for Each Way bets?",
+      "Is E/W functionality available in Tilt the Odds?",
+      "Information on Each Way bet support within TTO.",
+      "Does the platform cover or track E/W bets?",
+      "Will TTO add Each Way betting in the future?"
+    ],
+    "response": "Currently, Tilt the Odds does **not** support Each Way (E/W) bets, either in suggestions or tracking. Our strategies and algorithms are focused on finding value in the 'Win' market only. However, we recognize the interest in E/W betting and may consider introducing E/W features in the future as we continue to develop and evolve our platform."
+  },
+  "disable_repeats_current_profile": {
+    "main_question": "How do I disable repeat selections on my currently active profile?",
+    "keywords": [
+      "disable repeats profile",
+      "current profile settings",
+      "stop repeat selections",
+      "profile repeats off",
+      "turn off repeats now",
+      "no repeat selections toggle",
+      "active profile",
+      "filter duplicates",
+      "profile configuration",
+      "selection settings"
+    ],
+    "variations": [
+      "How do I disable repeat selections for my current active profile?",
+      "What are the steps to turn off repeats on my active TTO profile?",
+      "Disabling repeat selections within the current profile settings.",
+      "How do I stop seeing the same horse in multiple bets in my current setup?",
+      "Where is the profile setting to disable repeat selections?"
+    ],
+    "response": "To disable repeat selections for your currently active profile, simply navigate to your profile settings page. Find the toggle option labelled \"No Repeat Selections\" (or similar phrasing) associated with that profile and ensure it is switched **ON** (enabled/checked). Remember to save your profile changes. Once applied, this profile will filter out suggestions that include a horse already present in another suggested bet during the same search cycle."
+  },
+  "edit_bet_rejected": {
+    "main_question": "What happens if I edit a bet in my record and mark it as 'rejected'?",
+    "keywords": [
+      "edit bet rejected",
+      "mark rejected",
+      "rejected bet status",
+      "editing bet outcome",
+      "rejected bet tracking",
+      "exclude from analysis",
+      "remove from stats",
+      "bet record management",
+      "rejected status meaning",
+      "impact on tracker"
+    ],
+    "variations": [
+      "What occurs if I edit a bet and change its status to 'rejected'?",
+      "How does marking a bet as 'rejected' affect my records and stats?",
+      "What is the impact of editing a bet to 'rejected' status?",
+      "What does the 'rejected' status mean when editing a bet in TTO?",
+      "How are edited bets marked as 'rejected' handled in tracking?",
+      "If I didn't place a bet, should I mark it rejected?"
+    ],
+    "response": "When you edit a bet in your Tilt the Odds record and change its status to 'Rejected,' that specific bet will be excluded from all your performance analysis, profit/loss calculations, and tracker totals. It effectively removes the bet from your active history for statistical purposes, useful for bets you decided not to place or logged by mistake."
+  },
+  "questions_help": {
+    "main_question": "Where can I get help or ask questions about TTO?",
+    "keywords": [
+      "questions",
+      "help",
+      "support needed",
+      "assistance",
+      "contact help",
+      "ask support",
+      "get answers",
+      "Discord help",
+      "FAQ",
+      "blog posts",
+      "support channels",
+      "customer service"
+    ],
+    "variations": [
+      "Who should I contact if I have questions or need help with TTO?",
+      "Where can I get help or find answers about using Tilt the Odds?",
+      "What is the process for getting support?",
+      "I need help with the TTO service, what should I do?",
+      "How can I ask questions or request assistance?",
+      "What support resources are available for TTO users?"
+    ],
+    "response": "If you have any questions or need assistance with Tilt the Odds, you have several options:\n* **FAQs:** Check our Frequently Asked Questions section on the website.\n* **Blog:** Read relevant articles and guides on our blog.\n* **Discord Community:** Join our Discord server where experts, support staff, and other members can help and provide advice.\n* **Email Support:** Contact our customer support team directly at help@tilttheodds.co.uk.\nSign up here to get full access and join the community for answers and advice."
+  },
+  "cancel_subscription_how": {
+    "main_question": "How do I cancel my TTO subscription?",
+    "keywords": [
+      "cancel subscription",
+      "stop subscription",
+      "end membership",
+      "unsubscribe",
+      "cancellation process",
+      "Stripe portal",
+      "account settings",
+      "manage subscription",
+      "billing cycle end",
+      "cancel payment"
+    ],
+    "variations": [
+      "What is the procedure for cancelling my TTO subscription?",
+      "How do I go about stopping my Tilt the Odds subscription?",
+      "What are the steps to unsubscribe from TTO?",
+      "Where can I cancel my TTO subscription?",
+      "How do I manage or end my TTO membership?",
+      "Steps to cancel via Stripe customer portal?"
+    ],
+    "response": "You can cancel your Tilt the Odds subscription by following these steps:\n1. Log in to your TTO account.\n2. Click on the gear icon (⚙️) to access your Settings page.\n3. Scroll down and find the 'Edit Subscription' or 'Manage Subscription' button/link.\n4. Clicking this will redirect you to the Stripe customer portal. You may need to log in securely, often via a link sent to the email address used for your subscription payment.\n5. Once inside the Stripe portal, you can view your current plan and will find an option to 'Cancel Plan' or similar.\n6. Confirm the cancellation. Your subscription will remain active and usable until the end of the current paid billing period, after which it will not renew.\nFor any questions or assistance with cancellation, please contact us at help@tilttheodds.co.uk."
+  },
+  "cancel_anytime": {
+    "main_question": "Can I cancel my TTO subscription at any time?",
+    "keywords": [
+      "cancel anytime",
+      "flexible cancellation",
+      "no commitment",
+      "cancel whenever",
+      "cancellation policy",
+      "stop renewal",
+      "subscription terms",
+      "easy cancellation",
+      "monthly annual cancel"
+    ],
+    "variations": [
+      "Am I able to cancel my TTO subscription whenever I want?",
+      "Is cancellation permitted at any point during my subscription?",
+      "Can I stop my TTO subscription anytime?",
+      "What is the flexibility of the TTO cancellation policy?",
+      "Is there a minimum commitment period, or can I cancel anytime?",
+      "Can I cancel both monthly and annual plans at any time?"
+    ],
+    "response": "Yes, you can cancel your Tilt the Odds subscription (both monthly and annual plans) at any time through your account settings via the Stripe customer portal. Cancellation prevents future renewals, and your access will continue until the end of the already paid billing period."
+  },
+  "refund_early_cancellation": {
+    "main_question": "Will I get a refund if I cancel my TTO subscription early?",
+    "keywords": [
+      "refund cancellation",
+      "prorated refund",
+      "cancel early refund",
+      "refund policy",
+      "money back cancel",
+      "partial refund",
+      "unused time",
+      "no refund policy",
+      "billing cycle",
+      "subscription terms"
+    ],
+    "variations": [
+      "If I cancel before my billing cycle ends, will I get a refund?",
+      "Does TTO offer refunds for early cancellation?",
+      "What is the refund policy if I cancel mid-period?",
+      "Will I get money back if I cancel before my subscription renewal date?",
+      "Are prorated refunds offered for cancelling a subscription?",
+      "Do you refund for unused portions of the subscription?"
+    ],
+    "response": "No, we generally do not offer refunds (including partial or prorated refunds) for subscription periods that have already been paid for, even if you cancel before the end of that period. When you cancel, your subscription remains active and you retain full access to all features until the end of the current billing cycle you've paid for. It simply won't renew afterwards."
+  },
+  "small_bankroll_use": {
+    "main_question": "Can I use TTO effectively even if I have a small betting bankroll?",
+    "keywords": [
+      "small bankroll",
+      "low funds",
+      "minimum bankroll",
+      "betting budget",
+      "small stakes",
+      "low stakes betting",
+      "affordable betting",
+      "TTO suitability",
+      "start betting small",
+      "20p stakes",
+      "gradual increase"
+    ],
+    "variations": [
+      "Can TTO be used effectively with a small bankroll?",
+      "Is the platform suitable for bettors with limited funds?",
+      "What is the minimum recommended bankroll for using TTO?",
+      "Can I use TTO if I'm betting on a tight budget?",
+      "Is TTO viable for small stakes players (e.g., 20p bets)?",
+      "Is TTO worthwhile if I only bet small amounts?"
+    ],
+    "response": "Absolutely! Tilt the Odds is designed to be accessible and valuable regardless of bankroll size. You can effectively use our suggestions and tools even with very small stakes (e.g., starting at 20p per point if necessary). The principles of finding value apply at all stake levels. You can start small and gradually increase your stakes as your bankroll grows and you gain confidence in the strategies."
+  },
+  "qs_vp_together": {
+    "main_question": "How do QS (Quality Score) and VP (Value Percent) work together to recommend bets?",
+    "keywords": [
+      "QS VP together",
+      "QS VP interaction",
+      "recommendation logic",
+      "bet selection criteria",
+      "how QS VP work",
+      "Quality Score Value Percent",
+      "bet filtering",
+      "policy rules",
+      "odds range",
+      "exchange liquidity",
+      "selection process",
+      "combined criteria"
+    ],
+    "variations": [
+      "How do QS and VP work together in the TTO recommendation process?",
+      "Explain the relationship between QS and VP in bet selection.",
+      "How are Quality Score and Value Percentage combined to filter bets?",
+      "What is the interaction between QS and VP metrics?",
+      "Understanding how QS and VP influence TTO bet suggestions.",
+      "What other criteria besides QS and VP are used for recommendations?"
+    ],
+    "response": "QS (Quality Score) and VP (Value Percent) are key inputs, but they work together with other factors within a set of 'policy rules' to determine a bet recommendation.\n1. **QS Calculation:** We first calculate the QS for potential selections, indicating the underlying quality based on various factors.\n2. **Policy Rules Check:** A selection must then pass several checks, which might include:\n    * Falling within a specific **odds range**.\n    * Having a **VP** above a certain minimum threshold.\n    * Meeting criteria related to **exchange market liquidity** (e.g., enough money available).\n    * Potentially other proprietary rule checks.\n3. **Filtering & Sorting:** If a selection passes all these checks, it's added to a list of possible recommendations. This list might then be sorted based on a combination of factors (including QS and VP) before the final bets are presented to the user."
+  },
+  "qs_calculation": {
+    "main_question": "How is the QS (Quality Score) calculated?",
+    "keywords": [
+      "QS calculation",
+      "Quality Score formula",
+      "how QS determined",
+      "calculating QS",
+      "QS metric factors",
+      "credit scoring principle",
+      "variable importance",
+      "weight of money",
+      "exchange data",
+      "odds movements",
+      "matched money",
+      "proprietary algorithm"
+    ],
+    "variations": [
+      "How exactly is the TTO Quality Score calculated?",
+      "What factors go into the QS calculation?",
+      "Can you explain the formula or method used for QS?",
+      "How is the Quality Score metric determined?",
+      "How is the QS value derived?",
+      "What data sources feed into the Quality Score?",
+      "Is the QS calculation based on exchange activity?"
+    ],
+    "response": "QS (Quality Score) is calculated using a proprietary algorithm based on principles similar to credit scoring. It assesses multiple variables and their values to determine the likelihood of a selection representing good value.\nWhile the exact formula is complex and confidential, some important contributing factors include:\n* **Weight of money:** The balance of money on the betting exchanges (backing vs. laying).\n* **Odds movements:** Recent and historical trends in the odds.\n* **Matched volume:** How much money has actually been traded on the selection at various odds points on the exchanges.\nThese and other variables are weighted and combined to produce the QS."
+  },
+  "avoid_account_restriction": {
+    "main_question": "How can I avoid getting my betting accounts restricted or banned by bookmakers?",
+    "keywords": [
+      "avoid restriction",
+      "account ban",
+      "bookie limits",
+      "stay under radar",
+      "prevent gubbing",
+      "account health",
+      "mug betting",
+      "betting patterns",
+      "stake sizing",
+      "bookmaker risk management",
+      "account longevity",
+      "TTO blog"
+    ],
+    "variations": [
+      "What strategies can help prevent my betting accounts from being restricted or banned?",
+      "How can I reduce the risk of bookies limiting my account ('gubbing')?",
+      "Any tips for avoiding unwanted bookmaker attention?",
+      "What are best practices for maintaining healthy betting accounts long-term?",
+      "How to bet without getting restricted by bookmakers?",
+      "Does using TTO increase risk of account closure?",
+      "What is 'mug betting' and does it help?"
+    ],
+    "response": "While no method is foolproof, certain betting patterns can attract unwanted attention from bookmakers, potentially leading to stake restrictions or closures ('gubbing'). To reduce the risk:\n* **Mix Your Bets:** Avoid exclusively taking value odds or arbs. Include some 'mug bets' (e.g., small stakes on popular events like football accumulators) that appear less strategic.\n* **Stake Management:** Avoid consistently betting unusual amounts (e.g., £17.34). Round stakes where possible (e.g., £10, £20). Avoid hitting maximum stake limits frequently.\n* **Betting Volume:** Don't place an excessive number of bets in a very short period, especially on obscure markets.\n* **Withdrawal Patterns:** Avoid depositing, winning one bet, and immediately withdrawing.\nEssentially, try to mimic the behaviour of a regular, non-strategic punter occasionally. Bookmakers primarily restrict accounts they perceive as consistently costing them money through sharp betting.\nCheck out our blog on 'Top Tips to Avoid Getting Your Betting Account Restricted or Banned' for more detailed advice."
+  },
+  "provide_feedback": {
+    "main_question": "How can I provide feedback or suggestions for improving TTO?",
+    "keywords": [
+      "provide feedback",
+      "suggestions",
+      "TTO improvement",
+      "feature requests",
+      "give input",
+      "user feedback",
+      "platform ideas",
+      "Discord suggestions",
+      "contact support feedback",
+      "report issue",
+      "suggest feature"
+    ],
+    "variations": [
+      "Is there a way to offer feedback or suggestions for Tilt the Odds?",
+      "How can I share my ideas for improving the TTO platform?",
+      "Where should I submit feedback or report issues with TTO?",
+      "What is the process for providing suggestions or feature requests?",
+      "Can users contribute ideas for new TTO features or improvements?",
+      "How do I let TTO know about a bug or suggest an enhancement?"
+    ],
+    "response": "Yes, absolutely! We highly value user feedback and suggestions for improving Tilt the Odds. You can share your thoughts through several channels:\n* **Discord:** We have dedicated channels in our Discord community specifically for feedback, suggestions, and bug reports.\n* **Email Support:** You can send your feedback, suggestions, or detailed issue reports directly to our support team at help@tilttheodds.co.uk.\nWe appreciate you taking the time to help us make TTO better!"
+  },
+  "what_is_qs": {
+    "main_question": "What is QS (Quality Score)?",
+    "keywords": [
+      "what is QS",
+      "QS definition",
+      "Quality Score meaning",
+      "explain QS",
+      "QS metric explained",
+      "TTO metric",
+      "bet quality indicator",
+      "QS vs VP",
+      "significance QS",
+      "recalculation frequency"
+    ],
+    "variations": [
+      "Can you explain what QS (Quality Score) means in TTO?",
+      "What does the Quality Score (QS) represent?",
+      "Definition of QS in the Tilt the Odds context.",
+      "Need help understanding the QS metric.",
+      "What is the meaning and significance of the Quality Score (QS)?",
+      "How important is QS compared to VP?"
+    ],
+    "response": "QS stands for Quality Score. It's a proprietary metric calculated by Tilt the Odds that represents the underlying 'quality' or strength of a potential bet selection based on various data points (see 'How is QS calculated?'). QS is a complex and highly significant factor in determining whether we recommend a bet – often more so than the simple VP (Value Percent). Throughout the day, we constantly recalculate the QS for every horse yet to run, reflecting changes in market data."
+  },
+  "what_is_vp": {
+    "main_question": "What is VP (Value Percent) and how is it calculated?",
+    "keywords": [
+      "what is VP",
+      "VP definition",
+      "Value Percentage meaning",
+      "explain VP",
+      "VP calculation",
+      "VP metric explained",
+      "TTO metric",
+      "value indicator",
+      "bookmaker odds vs exchange",
+      "lay odds",
+      "VP formula"
+    ],
+    "variations": [
+      "Can you explain the Value Percentage (VP) metric in TTO?",
+      "What is the definition and calculation of VP?",
+      "Need help understanding the VP metric and its calculation.",
+      "What does Value Percentage (VP) signify?",
+      "How exactly is the Value Percentage (VP) calculated?",
+      "What is the formula for VP?"
+    ],
+    "response": "VP stands for Value Percent. It's a simpler metric compared to QS, designed to give a basic indication of potential value by comparing bookmaker odds to exchange odds.\n**Calculation:** VP is calculated by dividing the decimal bookmaker odds by the decimal betting exchange 'lay' odds, and then multiplying the result by 100.\n**Formula:** VP = (Bookmaker Decimal Odds / Exchange Lay Decimal Odds) * 100.\nA VP over 100 theoretically suggests potential value, but it's a very rough guide and should be considered alongside the more sophisticated QS and other factors."
+  },
+  "lucky15_one_winner_bonus_bookies": {
+    "main_question": "Which bookies offer a 'one winner bonus' on Lucky 15s?",
+    "keywords": [
+      "Lucky 15 one winner bonus",
+      "L15 bonus bookies",
+      "one winner bonus",
+      "bookies L15 bonus",
+      "which bookies offer bonus",
+      "L15 consolation",
+      "double odds bonus",
+      "treble odds bonus",
+      "Lucky 15 terms",
+      "bookmaker list bonus"
+    ],
+    "variations": [
+      "Which bookmakers give a bonus if only one selection wins on a Lucky 15?",
+      "Can you list the bookies that offer a one winner bonus for L15s?",
+      "Where can I get a bonus (double/treble odds) for one winner on a Lucky 15?",
+      "Which bookmakers offer the L15 one winner consolation bonus?",
+      "List of bookies with the Lucky 15 single winner bonus."
+    ],
+    "response": "Many bookmakers offer a bonus consolation if only one selection wins on a Lucky 15 bet (usually paid on the odds of the single winner).\n* **Treble Odds:** Betfred is well-known for offering 3x the odds for one winner.\n* **Double Odds:** Many others offer 2x the odds, including (but always check current T&Cs): Betgoodwin, Boylesports, Bresbet, Fafabet, Fitzdares, Bet600, Dragonbet, Rhinobet, NRGbet, GentlemanJim, Geoff Banks, Octobet, Unibet, Bet365, Planetsportbet, William Hill, and Betway.\nAlways verify the specific terms with the bookmaker as promotions can change."
+  },
+  "rule_4_deductions": {
+    "main_question": "What are Rule 4 deductions in horse racing?",
+    "keywords": [
+      "Rule 4 deductions",
+      "Rule 4 explained",
+      "horse racing deductions",
+      "non-runner deduction",
+      "R4 meaning",
+      "Rule 4 table",
+      "odds reduction",
+      "withdrawn horse",
+      "bet payout reduction",
+      "tattersalls rule 4"
+    ],
+    "variations": [
+      "Can you explain Rule 4 deductions in horse racing?",
+      "What does Rule 4 mean in betting?",
+      "How do Rule 4 deductions work when a horse is withdrawn?",
+      "Explanation of Tattersalls Rule 4 for betting.",
+      "What are deductions under Rule 4?",
+      "Why was my payout reduced due to Rule 4?",
+      "How much is deducted for Rule 4?"
+    ],
+    "response": "Rule 4 (specifically Tattersalls Rule 4(c)) is an industry-standard rule applied in horse racing (and sometimes greyhound racing) when a horse is withdrawn from a race *after* the final declarations and betting market has formed.\nBecause the withdrawal changes the chances of the remaining runners winning, bookmakers apply a deduction (a percentage reduction) to winning bets placed *before* the withdrawal occurred, based on the odds of the withdrawn horse at the time of its withdrawal. This aims to reflect the improved chances of the remaining runners fairly. The amount deducted is based on a standard table.\nFor a detailed explanation and the deduction table, check out our blog on Rule 4 Deductions."
+  },
+  "horse_racing_bet_types": {
+    "main_question": "What are the different types of horse racing bets?",
+    "keywords": [
+      "horse racing bets",
+      "types of bets",
+      "racing bet types",
+      "horse betting options",
+      "common racing bets",
+      "singles",
+      "multiples",
+      "each way",
+      "accumulator",
+      "Lucky 15",
+      "Yankee",
+      "Trixie",
+      "Patent",
+      "Forecast",
+      "Tricast",
+      "full cover bets",
+      "exotic bets"
+    ],
+    "variations": [
+      "What are the common types of horse racing bets?",
+      "Can you list the different kinds of horse racing bets?",
+      "Overview of horse racing bet types (singles, multiples etc.)",
+      "Explaining various horse racing wagers.",
+      "What betting options are there in horse racing?",
+      "What's the difference between a Yankee and a Lucky 15?",
+      "Explain full cover bets."
+    ],
+    "response": "There are many types of horse racing bets, ranging from simple to complex:\n* **Single:** A bet on one horse to win (or place if betting Each Way).\n* **Each Way (E/W):** Two bets in one: one for the horse to Win, one for it to Place (finish in the top positions, number depends on race type and runners).\n* **Multiples:** Combining selections from different races into one bet:\n    * **Accumulator (Acca):** All selections must win (e.g., Double, Treble, Fourfold...). High risk, high reward.\n    * **Full Cover Bets:** Combinations of multiples from a set number of selections, meaning not all have to win to get a return (e.g., Trixie [3 selections, 4 bets], Patent [3 selections, 7 bets], Yankee [4 selections, 11 bets], Lucky 15 [4 selections, 15 bets]).\n* **Forecast/Tricast:** Predicting the exact order of the first 2 (Forecast) or 3 (Tricast) finishers in a race.\nCheck out our blog on 'Different Types of Horse Racing Bets' for a more comprehensive list and explanations."
+  },
+  "join_discord": {
+    "main_question": "I've signed up to TTO. How do I join the Discord community?",
+    "keywords": [
+      "join Discord",
+      "Discord community",
+      "access Discord",
+      "TTO Discord link",
+      "community server invite",
+      "Discord setup",
+      "TTO settings page",
+      "find Discord link",
+      "connect Discord",
+      "new user Discord"
+    ],
+    "variations": [
+      "I just signed up to Tilt the Odds, how do I join the Discord community?",
+      "Where can I find the link to join the TTO Discord server?",
+      "What are the steps to join Discord after signing up for TTO?",
+      "Instructions for joining the TTO Discord.",
+      "How do I access the TTO community Discord server?",
+      "Can't find the Discord link in my TTO settings?"
+    ],
+    "response": "To join the Tilt the Odds Discord community after signing up:\n1. Log in to your account on the Tilt the Odds website.\n2. Click on the gear icon (⚙️) to access your Settings page.\n3. On the Settings page, scroll down past the Strategy Selection / Profile area.\n4. You should find a section with a button or link labelled 'Join Discord' or similar.\n5. Click this link. It will take you to Discord to accept the invitation and join our server.\n6. Follow any instructions within Discord to complete verification if required.\nIf you have trouble finding the link or it doesn't work, please contact our support team at help@tilttheodds.co.uk."
+  },
+  "suitable_new_bettors": {
+    "main_question": "Is Tilt the Odds suitable for beginners or new bettors?",
+    "keywords": [
+      "new bettors",
+      "beginners",
+      "suitable novices",
+      "easy to use",
+      "platform beginners",
+      "TTO newcomer",
+      "user friendly",
+      "getting started betting",
+      "learn betting TTO",
+      "simple platform"
+    ],
+    "variations": [
+      "Is TTO appropriate for betting newcomers or beginners?",
+      "Would you recommend the TTO platform for someone new to betting?",
+      "Is the platform user-friendly enough for novices?",
+      "How suitable is TTO for inexperienced bettors?",
+      "Can new bettors use TTO easily and understand it?",
+      "Is TTO a good place to start learning value betting?"
+    ],
+    "response": "Yes, Tilt the Odds can be suitable for new bettors, although a basic understanding of betting concepts is helpful. Our platform is designed to be user-friendly, and we provide resources like FAQs and blog posts to explain key concepts (like QS, VP, Rule 4). The Bet Generator provides clear suggestions, and the Discord community is a great place for beginners to ask questions and learn from more experienced members. Starting with small stakes is always recommended for newcomers."
+  },
+  "get_started_betting": {
+    "main_question": "How do I get started with betting using the TTO platform?",
+    "keywords": [
+      "get started",
+      "start betting TTO",
+      "using platform guide",
+      "beginner guide TTO",
+      "how to begin",
+      "first steps TTO",
+      "TTO setup",
+      "using Bet Generator",
+      "placing first bet",
+      "new user workflow"
+    ],
+    "variations": [
+      "How do I begin betting using the Tilt the Odds platform?",
+      "What are the first steps to get started with TTO after signing up?",
+      "Is there a guide to getting started with the TTO betting platform?",
+      "How do I start using TTO effectively for betting?",
+      "Where do I begin after signing up and logging in?",
+      "Basic workflow for using TTO as a new user?"
+    ],
+    "response": "To get started with Tilt the Odds:\n1.  **Sign Up & Subscribe:** Create your account and choose a subscription plan (consider the free trial).\n2.  **Set Up Profile:** Go to Settings (⚙️ icon). Create a profile, select ~5 bookmaker/bet type combinations you want suggestions for, and save.\n3.  **Understand Metrics:** Familiarize yourself with QS (Quality Score) and VP (Value Percent) via FAQs or blogs.\n4.  **Use Bet Generator:** Go to the main betting page. TTO will search based on your profile and display potential value bets.\n5.  **Analyze Suggestions:** Look at the suggested bets, odds, QS, VP, and bookmaker.\n6.  **Place Bet Manually:** If you like a suggestion, log in to the relevant bookmaker's site/app and place the bet yourself.\n7.  **Track Results:** Use the TTO Bet Record/Tracker to monitor performance (mark bets as placed/rejected accurately).\n8.  **Learn & Adjust:** Use the Discord community, blogs, and your own results to refine your approach."
+  }
+}
